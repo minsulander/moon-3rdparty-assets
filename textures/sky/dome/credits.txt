@@ -1,0 +1,22 @@
+Alien Skybox Textures: http://mikepan.homeip.net/alien
+01.jpg
+02.jpg
+credits.txt
+dayclear.jpg
+daycloudy.jpg
+dayfair.jpg
+dayfoggy.jpg
+dayovercast.jpg
+daystormy.jpg
+duskclear.jpg
+duskclear2.jpg
+duskcloudy.jpg
+duskcontrast.jpg
+duskfair.jpg
+duskfair2.jpg
+duskstormy.jpg
+light.jpg
+night.jpg
+
+Sven DŠnnart: http://www.the3dstudio.com/
+Sky_6a_Sunset.jpg

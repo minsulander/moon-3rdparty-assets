@@ -1,0 +1,24 @@
+		***********MOVES Institute**********
+		************* 02FEB2005 ************
+
+      AshCanOut.max was created by Dana A. Crapo and is free for use and distribution.
+	 
+	
+	This model was created using 3Ds Max v.6
+
+	 units:
+  	      Meters
+
+	 Orientation:
+	     Z -> UP
+	     Y -> FORWARD
+
+	 DOFs:
+	      none
+
+	 Switches:
+	      none
+
+	 LOD distances (switch 'IN')
+	      none
+
